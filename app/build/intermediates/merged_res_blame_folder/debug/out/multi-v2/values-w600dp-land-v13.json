@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "by.ssrlab.NASB.app-mergeDebugResources-49:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\markk\\.gradle\\caches\\transforms-3\\a085409d5eec6c9fa4990f0a6fb52c27\\transformed\\material-1.4.0-beta01\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

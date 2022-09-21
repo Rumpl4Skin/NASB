@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_item">
+        <item>Language</item>
+        <item>About us</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="about_us"><![CDATA[
+<b>Developer: </b> Speech Synthesis and Recognition Laboratory of
+United Institute of Informatics Problems of National Academy of Sciences of Belarus (<a href="http://ssrlab.by/">http://ssrlab.by</a>).<br/><br/>
+Please, sent your <b>proposals, comments and wishes:</b><br/>
+ssrlab221@gmail.com]]></string>
+    <string name="app_name">NASB</string>
+    <string name="choose_lang">Choose language</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_logo">National Academy of Sciences of Belarus</string>
+    <string name="title_about">About us</string>
+    <string name="title_engineering">Engineerings</string>
+    <string name="title_history">History</string>
+    <string name="title_map">Map</string>
+    <string name="title_settings">Settings</string>
+    <style name="Theme.NASB" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        
+    </style>
+</resources>

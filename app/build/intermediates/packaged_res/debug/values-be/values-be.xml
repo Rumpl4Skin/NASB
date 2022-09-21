@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_item">
+                <item>Мова</item>
+                <item>Пра нас</item>
+        </string-array>
+    <string name="about_us"><![CDATA[
+<b>Распрацоўшчык:</b> Лабараторыя распазнавання і сінтэзу маўлення
+Аб&apos;яднаны Інстытут праблем Інфарматыкі НАН Беларусі (<a href="http://ssrlab.by/">http://ssrlab.by</a>).<br/><br/>
+Кантакт для <b>прапаноў, каментарыяў, пажаданняў:</b><br/>
+ssrlab221@gmail.com]]></string>
+    <string name="app_name">Музей НАН Беларусi</string>
+    <string name="choose_lang">Абярыце мову</string>
+    <string name="settings_logo">Нацыянальная акадэмія навук Беларусі</string>
+    <string name="title_about">Пра нас</string>
+    <string name="title_engineering">Распрацоўкі НАНБ</string>
+    <string name="title_history">Гісторыя НАНБ</string>
+    <string name="title_map">Карта</string>
+    <string name="title_settings">Наладкі</string>
+</resources>
