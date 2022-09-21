@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NASB</string>
+    <string name="title_engineering">Engineerings</string>
+    <string name="title_history">History</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_map">Map</string>
+    <string name="title_about">About us</string>
+    <string name="about_us"><![CDATA[
+<b>Developer: </b> Speech Synthesis and Recognition Laboratory of
+United Institute of Informatics Problems of National Academy of Sciences of Belarus (<a href="http://ssrlab.by/">http://ssrlab.by</a>).<br/><br/>
+Please, sent your <b>proposals, comments and wishes:</b><br/>
+ssrlab221@gmail.com]]></string>
+    <string name="settings_logo">National Academy of Sciences of Belarus</string>
+    <string name="choose_lang">Choose language</string>
+
+    <string-array name="settings_item">
+        <item>Language</item>
+        <item>About us</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

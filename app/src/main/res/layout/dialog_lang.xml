@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:elevation="8dp"
+    app:cardCornerRadius="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="8dp"
+                android:text="@string/choose_lang"
+                android:textColor="#232323"
+                android:textSize="24sp"
+                android:visibility="visible" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnBel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/background_corned"
+                android:text="Беларуская"
+                android:textColor="@color/black" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnEng"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/background_corned"
+                android:text="English"
+                android:textColor="@color/black" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
